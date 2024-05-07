@@ -7,3 +7,5 @@ Alternatively, if you aren't a github user, you can download a zip (see Releases
 Then see the [User Projects](https://chaste.github.io/docs/user-guides/user-projects/) guide page on the Chaste website for more information.
 
 If you clone this repository, you should make sure to rename the template_project folder with your project name and run the 'setup_project.py' script to avoid conflicts if you have multiple projects.
+
+Run setup_project.py into change the project names within Cmakelists.txt and choose the suitable modules for compiled this project
