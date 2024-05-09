@@ -8,4 +8,4 @@ Then see the [User Projects](https://chaste.github.io/docs/user-guides/user-proj
 
 If you clone this repository, you should make sure to rename the template_project folder with your project name and run the 'setup_project.py' script to avoid conflicts if you have multiple projects.
 
-Altenatively: change the project names within Cmakelists.txt and choose the suitable modules for compiled this project, and add the test into teh ContinuousTestPack..
+Altenatively: change the project names within Cmakelists.txt and choose the suitable modules for compiled this project, and add the test into teh ContinuousTestPack.
