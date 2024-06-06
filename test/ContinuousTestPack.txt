@@ -1,3 +1,4 @@
 TestHello.hpp
 TestRunningVertexBasedSimulationsT.hpp
 testmyChasteparaview.hpp
+TestCommandLineVertexMeshTutorial.hpp

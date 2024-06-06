@@ -9,3 +9,10 @@ Then see the [User Projects](https://chaste.github.io/docs/user-guides/user-proj
 If you clone this repository, you should make sure to rename the template_project folder with your project name and run the 'setup_project.py' script to avoid conflicts if you have multiple projects.
 
 Altenatively: change the project names within Cmakelists.txt and choose the suitable modules for compiled this project, and add the test into teh ContinuousTestPack.
+
+
+Add TestCommandLineVertexMeshTutorial.hpp with two parameters as argument along with a simple .sh file based on Jack's files. The Commandline relavent files have been sucessfully run.
+
+The next step: change time step sizes for running simulations
+
+Then running simulations to collect data within python file, connected with GP stuffs.
